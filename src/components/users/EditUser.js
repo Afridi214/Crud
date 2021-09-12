@@ -58,7 +58,7 @@ const EditUser = () => {
                     <div className="form-group">
                         <input type="text" name="website" value={website} onChange={e => onInputChange(e)} className="form-control form-control-lg mb-4" placeholder="Please Enter Your website name" />
                     </div>
-                    <button className="btn btn-warning btn-block w-100" >Update User </button>
+                    <button className="btn btn-warning btn-block w-100" >Uptodate User </button>
                 </form>
             </div>
         </div>
